@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "387564394774",
+    "firebase_url": "https://nr-bookings.firebaseio.com",
+    "project_id": "nr-bookings",
+    "storage_bucket": "nr-bookings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387564394774:android:53fb8396a38176b9631837",
+        "android_client_info": {
+          "package_name": "com.gamecodeschool.nrbookings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387564394774-uveruci5dc9ka2leapjmdfnq7t3drs1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gamecodeschool.nrbookings",
+            "certificate_hash": "0942dc372bd0272d4c97d5e4c9531639f7721ff8"
+          }
+        },
+        {
+          "client_id": "387564394774-v5i5l3s73eejdhl96cv90lbk5vel31ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCuPQeyjl4QJ2XEIxYG902UylzOW0oHk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387564394774-v5i5l3s73eejdhl96cv90lbk5vel31ao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
